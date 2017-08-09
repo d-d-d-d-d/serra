@@ -67,6 +67,12 @@ ModelImporter:
     100118: WoodenBox_002
     100120: WoodenBox_003
     100122: WoodenBoxes
+    100124: PendantLight_1
+    100126: RingLight
+    100128: PendantLight_1_001
+    100130: PendantLight_1_002
+    100132: RingLight_001
+    100134: RingLight_002
     400000: Base
     400002: Base_001
     400004: Ceiling
@@ -129,6 +135,12 @@ ModelImporter:
     400118: WoodenBox_002
     400120: WoodenBox_003
     400122: WoodenBoxes
+    400124: PendantLight_1
+    400126: RingLight
+    400128: PendantLight_1_001
+    400130: PendantLight_1_002
+    400132: RingLight_001
+    400134: RingLight_002
     2300000: Base
     2300002: Base_001
     2300004: Ceiling
@@ -182,6 +194,12 @@ ModelImporter:
     2300100: WoodenBox_002
     2300102: WoodenBox_003
     2300104: WoodenBoxes
+    2300106: PendantLight_1
+    2300108: RingLight
+    2300110: PendantLight_1_001
+    2300112: PendantLight_1_002
+    2300114: RingLight_001
+    2300116: RingLight_002
     3300000: Base
     3300002: Base_001
     3300004: Ceiling
@@ -235,6 +253,12 @@ ModelImporter:
     3300100: WoodenBox_002
     3300102: WoodenBox_003
     3300104: WoodenBoxes
+    3300106: PendantLight_1
+    3300108: RingLight
+    3300110: PendantLight_1_001
+    3300112: PendantLight_1_002
+    3300114: RingLight_001
+    3300116: RingLight_002
     4300000: QualityDrugs
     4300002: LightRail_2
     4300004: Light2_5
@@ -288,6 +312,12 @@ ModelImporter:
     4300100: WoodenBox_002
     4300102: WoodenBox
     4300104: WoodenBoxes
+    4300106: RingLight
+    4300108: PendantLight_1
+    4300110: PendantLight_1_002
+    4300112: RingLight_002
+    4300114: PendantLight_1_001
+    4300116: RingLight_001
     7400000: Default Take
     9500000: //RootNode
   materials:
