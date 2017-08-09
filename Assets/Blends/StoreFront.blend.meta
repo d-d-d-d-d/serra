@@ -73,6 +73,8 @@ ModelImporter:
     100130: PendantLight_1_002
     100132: RingLight_001
     100134: RingLight_002
+    100136: Cylinder_002
+    100138: Shelves
     400000: Base
     400002: Base_001
     400004: Ceiling
@@ -141,6 +143,8 @@ ModelImporter:
     400130: PendantLight_1_002
     400132: RingLight_001
     400134: RingLight_002
+    400136: Cylinder_002
+    400138: Shelves
     2300000: Base
     2300002: Base_001
     2300004: Ceiling
@@ -200,6 +204,8 @@ ModelImporter:
     2300112: PendantLight_1_002
     2300114: RingLight_001
     2300116: RingLight_002
+    2300118: Cylinder_002
+    2300120: Shelves
     3300000: Base
     3300002: Base_001
     3300004: Ceiling
@@ -259,6 +265,8 @@ ModelImporter:
     3300112: PendantLight_1_002
     3300114: RingLight_001
     3300116: RingLight_002
+    3300118: Cylinder_002
+    3300120: Shelves
     4300000: QualityDrugs
     4300002: LightRail_2
     4300004: Light2_5
@@ -318,6 +326,8 @@ ModelImporter:
     4300112: RingLight_002
     4300114: PendantLight_1_001
     4300116: RingLight_001
+    4300118: Cylinder_002
+    4300120: Shelves
     7400000: Default Take
     9500000: //RootNode
   materials:
