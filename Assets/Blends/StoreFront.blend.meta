@@ -66,6 +66,7 @@ ModelImporter:
     100116: WoodenBox_001
     100118: WoodenBox_002
     100120: WoodenBox_003
+    100122: WoodenBoxes
     400000: Base
     400002: Base_001
     400004: Ceiling
@@ -127,6 +128,7 @@ ModelImporter:
     400116: WoodenBox_001
     400118: WoodenBox_002
     400120: WoodenBox_003
+    400122: WoodenBoxes
     2300000: Base
     2300002: Base_001
     2300004: Ceiling
@@ -179,6 +181,7 @@ ModelImporter:
     2300098: WoodenBox_001
     2300100: WoodenBox_002
     2300102: WoodenBox_003
+    2300104: WoodenBoxes
     3300000: Base
     3300002: Base_001
     3300004: Ceiling
@@ -231,6 +234,7 @@ ModelImporter:
     3300098: WoodenBox_001
     3300100: WoodenBox_002
     3300102: WoodenBox_003
+    3300104: WoodenBoxes
     4300000: QualityDrugs
     4300002: LightRail_2
     4300004: Light2_5
@@ -283,6 +287,7 @@ ModelImporter:
     4300098: WoodenBox_003
     4300100: WoodenBox_002
     4300102: WoodenBox
+    4300104: WoodenBoxes
     7400000: Default Take
     9500000: //RootNode
   materials:
