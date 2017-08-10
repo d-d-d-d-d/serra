@@ -75,6 +75,14 @@ ModelImporter:
     100134: RingLight_002
     100136: Cylinder_002
     100138: Shelves
+    100140: Bud_1
+    100142: Bud_2
+    100144: Bud_3
+    100146: Bud_4
+    100148: InfoSheet
+    100150: InfoSheet_001
+    100152: InfoSheet_002
+    100154: InfoSheet_003
     400000: Base
     400002: Base_001
     400004: Ceiling
@@ -145,6 +153,14 @@ ModelImporter:
     400134: RingLight_002
     400136: Cylinder_002
     400138: Shelves
+    400140: Bud_1
+    400142: Bud_2
+    400144: Bud_3
+    400146: Bud_4
+    400148: InfoSheet
+    400150: InfoSheet_001
+    400152: InfoSheet_002
+    400154: InfoSheet_003
     2300000: Base
     2300002: Base_001
     2300004: Ceiling
@@ -206,6 +222,14 @@ ModelImporter:
     2300116: RingLight_002
     2300118: Cylinder_002
     2300120: Shelves
+    2300122: Bud_1
+    2300124: Bud_2
+    2300126: Bud_3
+    2300128: Bud_4
+    2300130: InfoSheet
+    2300132: InfoSheet_001
+    2300134: InfoSheet_002
+    2300136: InfoSheet_003
     3300000: Base
     3300002: Base_001
     3300004: Ceiling
@@ -267,6 +291,14 @@ ModelImporter:
     3300116: RingLight_002
     3300118: Cylinder_002
     3300120: Shelves
+    3300122: Bud_1
+    3300124: Bud_2
+    3300126: Bud_3
+    3300128: Bud_4
+    3300130: InfoSheet
+    3300132: InfoSheet_001
+    3300134: InfoSheet_002
+    3300136: InfoSheet_003
     4300000: QualityDrugs
     4300002: LightRail_2
     4300004: Light2_5
@@ -328,6 +360,14 @@ ModelImporter:
     4300116: RingLight_001
     4300118: Cylinder_002
     4300120: Shelves
+    4300122: InfoSheet_003
+    4300124: InfoSheet_002
+    4300126: InfoSheet_001
+    4300128: InfoSheet
+    4300130: Bud_1
+    4300132: Bud_2
+    4300134: Bud_4
+    4300136: Bud_3
     7400000: Default Take
     9500000: //RootNode
   materials:
