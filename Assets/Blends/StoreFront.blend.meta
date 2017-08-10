@@ -83,6 +83,20 @@ ModelImporter:
     100150: InfoSheet_001
     100152: InfoSheet_002
     100154: InfoSheet_003
+    100156: Chongo
+    100158: LandYacht
+    100160: PleasurePoint
+    100162: HaciendaWarePipe
+    100164: HaciendaWarePipe_001
+    100166: HaciendaWarePipe_002
+    100168: HaciendaWarePipe_003
+    100170: ApplePipe
+    100172: CrystalPipe
+    100174: CrystalPipe_001
+    100176: HaciendaWarePipe_004
+    100178: HaciendaWarePipe_005
+    100180: HaciendaWarePipe_006
+    100182: HaciendaWarePipe_007
     400000: Base
     400002: Base_001
     400004: Ceiling
@@ -161,6 +175,20 @@ ModelImporter:
     400150: InfoSheet_001
     400152: InfoSheet_002
     400154: InfoSheet_003
+    400156: Chongo
+    400158: LandYacht
+    400160: PleasurePoint
+    400162: HaciendaWarePipe
+    400164: HaciendaWarePipe_001
+    400166: HaciendaWarePipe_002
+    400168: HaciendaWarePipe_003
+    400170: ApplePipe
+    400172: CrystalPipe
+    400174: CrystalPipe_001
+    400176: HaciendaWarePipe_004
+    400178: HaciendaWarePipe_005
+    400180: HaciendaWarePipe_006
+    400182: HaciendaWarePipe_007
     2300000: Base
     2300002: Base_001
     2300004: Ceiling
@@ -230,6 +258,20 @@ ModelImporter:
     2300132: InfoSheet_001
     2300134: InfoSheet_002
     2300136: InfoSheet_003
+    2300138: Chongo
+    2300140: LandYacht
+    2300142: PleasurePoint
+    2300144: HaciendaWarePipe
+    2300146: HaciendaWarePipe_001
+    2300148: HaciendaWarePipe_002
+    2300150: HaciendaWarePipe_003
+    2300152: ApplePipe
+    2300154: CrystalPipe
+    2300156: CrystalPipe_001
+    2300158: HaciendaWarePipe_004
+    2300160: HaciendaWarePipe_005
+    2300162: HaciendaWarePipe_006
+    2300164: HaciendaWarePipe_007
     3300000: Base
     3300002: Base_001
     3300004: Ceiling
@@ -299,6 +341,20 @@ ModelImporter:
     3300132: InfoSheet_001
     3300134: InfoSheet_002
     3300136: InfoSheet_003
+    3300138: Chongo
+    3300140: LandYacht
+    3300142: PleasurePoint
+    3300144: HaciendaWarePipe
+    3300146: HaciendaWarePipe_001
+    3300148: HaciendaWarePipe_002
+    3300150: HaciendaWarePipe_003
+    3300152: ApplePipe
+    3300154: CrystalPipe
+    3300156: CrystalPipe_001
+    3300158: HaciendaWarePipe_004
+    3300160: HaciendaWarePipe_005
+    3300162: HaciendaWarePipe_006
+    3300164: HaciendaWarePipe_007
     4300000: QualityDrugs
     4300002: LightRail_2
     4300004: Light2_5
@@ -368,6 +424,20 @@ ModelImporter:
     4300132: Bud_2
     4300134: Bud_4
     4300136: Bud_3
+    4300138: Chongo
+    4300140: LandYacht
+    4300142: PleasurePoint
+    4300144: HaciendaWarePipe
+    4300146: HaciendaWarePipe_003
+    4300148: HaciendaWarePipe_002
+    4300150: HaciendaWarePipe_001
+    4300152: HaciendaWarePipe_007
+    4300154: HaciendaWarePipe_006
+    4300156: HaciendaWarePipe_005
+    4300158: HaciendaWarePipe_004
+    4300160: CrystalPipe_001
+    4300162: ApplePipe
+    4300164: CrystalPipe
     7400000: Default Take
     9500000: //RootNode
   materials:
